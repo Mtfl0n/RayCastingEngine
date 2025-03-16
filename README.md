@@ -1,4 +1,4 @@
-RaycastingEngine — это простой 3D-рейкастинг движок на C# с использованием SFML, вдохновлённый классическими играми вроде Doom и Wolfenstein. Движок рендерит 3D-миры из 2D-карт, добавляя текстурированные стены.
+RaycastingEngine is a simple 3D raycasting engine written in C# using SFML, inspired by classic games like Doom and Wolfenstein. The engine renders 3D worlds from 2D maps, adding textured walls.
 
 
 ![screenshot](https://github.com/user-attachments/assets/68df8728-c04e-417c-a29e-0a40e13db6ea)
